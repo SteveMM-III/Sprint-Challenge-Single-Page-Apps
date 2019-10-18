@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Only one request is sent to the server allowing faster page loading with less stress on the server.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
